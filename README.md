@@ -1,2 +1,2 @@
-﻿# hospital_demo
-http://sinep12046.cn/hospital_demo/
+###  hospital_demo
+http://kuojayblog/hospital_demo/
