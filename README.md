@@ -1,2 +1,2 @@
 ###  hospital_demo
-http://kuojayblog/hospital_demo/
+http://kuojayblog.xyz/hospital_demo/
